@@ -1,0 +1,6 @@
+## Interface: 11200
+## Author: hxs
+## Title: MyAddon
+## Notes: An example addon written for 1.12
+
+MyAddon.xml
