@@ -40,7 +40,7 @@ MyAddon.Cmds = {
 
 function MyAddon:OnLoad()
 
-    SLASH_MYADDON1 = "/myaddon"
+    SLASH_MYADDON1 = "/"..MyAddon.SlashCmd
     SlashCmdList["MYADDON"] = function(msg)
         MyAddon:SlashCommandHandler(msg)
     end
