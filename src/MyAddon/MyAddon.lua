@@ -1,6 +1,6 @@
 -- MyAddon
 --
--- An example addon written for 1.12
+-- An example addon written for 1.13
 -- 
 
 MyAddon = {}
